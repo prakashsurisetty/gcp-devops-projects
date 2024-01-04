@@ -1,1 +1,3 @@
-# This is a repo for our new GCP DevOps project, .md is the extention for "mark down editor" 
+#### Docker flask application
+-This application is written is python
+- It shall be deployed on GKE
